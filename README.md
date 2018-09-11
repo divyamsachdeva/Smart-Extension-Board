@@ -1,1 +1,1 @@
-# Smart-Extension-Board
+# Wirelessly controlled socket board
